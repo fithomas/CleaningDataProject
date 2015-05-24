@@ -6,6 +6,7 @@ ID|Variable|Description
 1|subject| The subject (person)
 2|Label| The Activity
 
+
 ## Measurement Variables
 ID|Variable|Domain|Aggregation|Signal|Direction|Magnitude|Jerk Signal|Acceleration|Min Value|Max Value
 -----|------|-----------|------|---------|---------|----|------------|---|---|----
