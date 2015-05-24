@@ -3,7 +3,7 @@
 ## ID Variables
 ID|Variable|Description
 --|--------|-----------
-1|subject| The subject (person)
+1|subject| The person identifier
 2|Label| The Activity
 
 
