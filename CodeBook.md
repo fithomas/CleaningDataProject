@@ -1,5 +1,12 @@
 # CodeBook
 
+## ID Variables
+ID|Variable|Description
+--|--------|-----------
+1|subject| The subject (person)
+2|Label| The Activity
+
+## Measurement Variables
 ID|Variable|Domain|Aggregation|Signal|Direction|Magnitude|Jerk Signal|Acceleration|Min Value|Max Value
 -----|------|-----------|------|---------|---------|----|------------|---|---|----
 1|fBodyAcc-mean()-X|Fast Fourier Transform (FFT)|Mean value|accelerometer|X Direction|no|no|Body|-0.992157217708333|-0.133757972988764
